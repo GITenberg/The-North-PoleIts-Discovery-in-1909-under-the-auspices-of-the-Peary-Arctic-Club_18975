@@ -32,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8383
     wikipedia: http://en.wikipedia.org/wiki/Robert_Peary
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18975#The-North-PoleIts-Discovery-in-1909-under-the-auspices-of-the-Peary-Arctic-Club
 gutenberg_issued: '2006-08-03'
 gutenberg_type: Text
 identifiers:
